@@ -1,7 +1,9 @@
 body{
   font-family: 'Arapey', serif;
 }
-
+html {
+   scroll-behavior: smooth;
+}
 
 .row-content{
   margin: 55px auto;
